@@ -1,8 +1,8 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Tiago F. Fernandes
-description: Tiago Pages.
+title: Tiago F. Fernande
+description: Tiago Page.
 keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
 baseurl:  '' # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https:\\tffernandes.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
