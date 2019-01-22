@@ -20,6 +20,9 @@ $(function(){
         {% if category == 'Html' %}
         {% assign category = category | upcase %}
         {% endif %}
+        {% if category == 'Ssis' %}
+        {% assign category = category | upcase %}
+        {% endif %}
         <h1>{{ category }}</h1>
     </div>
 </div>

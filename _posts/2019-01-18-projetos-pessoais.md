@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "code snippet test"
-date:   2017-12-21
-desc: "Quick test on writing code snippets in a blog post"
-keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
+title:  "Projetos Pessoais"
+date:   2019-01-18
+desc: "Projetos de interrese academico e pessoal"
+keywords: "Vida,blog,easy"
 categories: [Life]
-tags: [Jalpc,Jekyll]
-icon: icon-html
+tags: [Life,Vida,Blog]
+icon: fa-life-ring
 ---
 
 This is a raw snipApet:

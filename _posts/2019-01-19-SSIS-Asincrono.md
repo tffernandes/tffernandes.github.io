@@ -4,7 +4,7 @@ title:  "Utilizando Chamadas SSIS Assincronas"
 date:   2019-01-22
 desc: "Como utilizar chamadas assincronas"
 keywords: "SSIS,Pacotes,Sincrono,Assincrono,blog,easy"
-categories: [Ssis]
+categories: [SSIS]
 tags: [SSIS,SQL]
 icon: icon-html
 ---
