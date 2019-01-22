@@ -1,29 +1,72 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Interchange
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Prover suporte para envio e recepção de arquivos através do portal de transações mantido pela empresa, Auxiliar nas configurações para o correto acesso a aplicação, reunir os pré-requisitos para analise de 2º nível.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: set de 2007
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Analista de suporte Nivel 1
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Interchange
+    i18n: company_a
+  desc:
+    detail: Realizar analises técnicas dos layouts dos arquivos transmitidos pelo portal financeiro e que acusam algum tipo de erro, caso identificado uma necessidade de ajuste enviar demanda para a área responsável. 
+    i18n: company_a_desc
+  date:
+    detail: fev de 2008
+    i18n: company_a_date
+  job:
+    detail: Analista de suporte Nivel 2
+    i18n: company_a_job
+  icon: fa-plus-square
+
+  - name:
+    detail: Interchange
+    i18n: company_a
+  desc:
+    detail: Realizar o entendimento e analise das necessidades apresentadas pelos clientes no processo de EDI. 
+Mensura prazos para os desenvolvimentos, qualificar a complexidade, realizar o desenvolvimento e realizar o Feedback para os clientes da status dos desenvolvimentos.
+    i18n: company_a_desc
+  date:
+    detail: set de 2008
+    i18n: company_a_date
+  job:
+    detail: Analista de negócios
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Bis Company
+    i18n: company_b
+  desc:
+    detail: Realizar o entendimento e análise das necessidades apresentadas pelos clientes no processo de EDI. 
+    i18n: company_b_desc
+  date:
+    detail: Ago de 2010
+    i18n: company_b_date
+  job:
+    detail: Analista de negócios
+    i18n: company_b_job
+  icon: fa-plus-square
+
+  - name:
+    detail: NeoGrid
     i18n: company_b
   desc:
     detail: I worked at Company B ...
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Set de 2018
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Desenvolvedor de software sênior
     i18n: company_b_job
   icon: fa-plus-square
