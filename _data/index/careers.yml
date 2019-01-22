@@ -28,7 +28,7 @@
     i18n: company_a_job
   icon: fa-plus-square
 
-  - name:
+- name:
     detail: Interchange
     i18n: company_a
   desc:
@@ -56,7 +56,7 @@
     i18n: company_b_job
   icon: fa-plus-square
 
-  - name:
+- name:
     detail: NeoGrid
     i18n: company_b
   desc:
