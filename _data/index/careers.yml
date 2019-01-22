@@ -32,8 +32,7 @@
     detail: Interchange
     i18n: company_a
   desc:
-    detail: Realizar o entendimento e analise das necessidades apresentadas pelos clientes no processo de EDI. 
-Mensura prazos para os desenvolvimentos, qualificar a complexidade, realizar o desenvolvimento e realizar o Feedback para os clientes da status dos desenvolvimentos.
+    detail: Realizar o entendimento e analise das necessidades apresentadas pelos clientes no processo de EDI. Mensura prazos para os desenvolvimentos, qualificar a complexidade, realizar o desenvolvimento e realizar o Feedback para os clientes da status dos desenvolvimentos.
     i18n: company_a_desc
   date:
     detail: set de 2008
