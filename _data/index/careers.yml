@@ -12,7 +12,7 @@
   job:
     detail: Analista de suporte Nivel 1
     i18n: company_a_job
-  icon: fa-id-card-alt
+  icon: fa-id-badge
 
 - name:
     detail: Interchange
@@ -26,7 +26,7 @@
   job:
     detail: Analista de suporte Nivel 2
     i18n: company_a_job
-  icon: fa-id-card-alt
+  icon: fa-id-badge
 
 - name:
     detail: Interchange
@@ -40,7 +40,7 @@
   job:
     detail: Analista de negócios
     i18n: company_a_job
-  icon: fa-id-card-alt
+  icon: fa-id-badge
 
 - name:
     detail: Graduação
@@ -68,7 +68,7 @@
   job:
     detail: Analista de negócios
     i18n: company_b_job
-  icon: fa-id-card-alt
+  icon: fa-id-badge
 
 - name:
     detail: NeoGrid
@@ -82,4 +82,4 @@
   job:
     detail: Desenvolvedor de software sênior
     i18n: company_b_job
-  icon: fa-id-card-alt
+  icon: fa-id-badge
