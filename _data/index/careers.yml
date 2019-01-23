@@ -7,7 +7,7 @@
     detail: Prover suporte para envio e recepção de arquivos através do portal de transações mantido pela empresa, Auxiliar nas configurações para o correto acesso a aplicação, reunir os pré-requisitos para analise de 2º nível.
     i18n: company_a_desc
   date:
-    detail: set de 2007
+    detail: Set de 2007
     i18n: company_a_date
   job:
     detail: Analista de suporte Nivel 1
@@ -21,7 +21,7 @@
     detail: Realizar analises técnicas dos layouts dos arquivos transmitidos pelo portal financeiro e que acusam algum tipo de erro, caso identificado uma necessidade de ajuste enviar demanda para a área responsável. 
     i18n: company_a_desc
   date:
-    detail: fev de 2008
+    detail: Fev de 2008
     i18n: company_a_date
   job:
     detail: Analista de suporte Nivel 2
@@ -35,12 +35,26 @@
     detail: Realizar o entendimento e analise das necessidades apresentadas pelos clientes no processo de EDI. Mensura prazos para os desenvolvimentos, qualificar a complexidade, realizar o desenvolvimento e realizar o Feedback para os clientes da status dos desenvolvimentos.
     i18n: company_a_desc
   date:
-    detail: set de 2008
+    detail: Set de 2008
     i18n: company_a_date
   job:
     detail: Analista de negócios
     i18n: company_a_job
   icon: fa-plus-square
+
+- name:
+    detail: Graduação
+    i18n: company_a
+  desc:
+    detail: Em dezembro de 2019 fui graduado bacharelado em Sistemas de Informação
+    i18n: company_a_desc
+  date:
+    detail: Dez de 2009
+    i18n: company_a_date
+  job:
+    detail: Sistemas de Informação
+    i18n: company_a_job
+  icon: fa-graduation-cap
 
 - name:
     detail: Bis Company
