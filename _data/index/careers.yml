@@ -4,27 +4,13 @@
     detail: Interchange
     i18n: company_a
   desc:
-    detail: Prover suporte para envio e recepção de arquivos através do portal de transações mantido pela empresa, Auxiliar nas configurações para o correto acesso a aplicação, reunir os pré-requisitos para analise de 2º nível.
+    detail: Prover suporte e Auxiliar nas configurações das aplicações EDI, realizar analises técnicas e de negocio dos arquivos trafegados, caso identificado uma necessidade de ajuste enviar demanda para a área responsável
     i18n: company_a_desc
   date:
     detail: Set de 2007
     i18n: company_a_date
   job:
-    detail: Analista de suporte Nivel 1
-    i18n: company_a_job
-  icon: fa-id-badge
-
-- name:
-    detail: Interchange
-    i18n: company_a
-  desc:
-    detail: Realizar analises técnicas dos layouts dos arquivos transmitidos pelo portal financeiro e que acusam algum tipo de erro, caso identificado uma necessidade de ajuste enviar demanda para a área responsável. 
-    i18n: company_a_desc
-  date:
-    detail: Fev de 2008
-    i18n: company_a_date
-  job:
-    detail: Analista de suporte Nivel 2
+    detail: Analista de suporte
     i18n: company_a_job
   icon: fa-id-badge
 
@@ -46,7 +32,7 @@
     detail: Graduação
     i18n: company_a
   desc:
-    detail: Em dezembro de 2019 fui graduado bacharelado em Sistemas de Informação
+    detail: Em dezembro de 2009 fui graduado bacharelado em Sistemas de Informação
     i18n: company_a_desc
   date:
     detail: Dez de 2009
@@ -69,6 +55,20 @@
     detail: Analista de negócios
     i18n: company_b_job
   icon: fa-id-badge
+
+- name:
+    detail: Pós-Graduação
+    i18n: company_a
+  desc:
+    detail: Em julho de 2015 fui graduado bacharelado em Sistemas de Informação
+    i18n: company_a_desc
+  date:
+    detail: Jul de 2015
+    i18n: company_a_date
+  job:
+    detail: Engenharia de Software
+    i18n: company_a_job
+  icon: fa-graduation-cap
 
 - name:
     detail: NeoGrid
