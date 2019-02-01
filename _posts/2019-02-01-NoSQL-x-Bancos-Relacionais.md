@@ -6,7 +6,7 @@ desc: "Conceitos teoricos"
 keywords: "Life,Tese,Monografia,blog,easy"
 categories: [Database]
 tags: [SQL,Bancos Relacionais,NoSQL]
-icon: fas fa-database
+icon: fa-database
 ---
 <span style="display:block;text-align:center">![Creditos Img (bitesizebio.com)](https://bitesizebio.com/wp-content/uploads/2012/11/2430528033_73ded5b01e_z.jpg)</span>
 
