@@ -8,16 +8,15 @@ categories: [Database]
 tags: [SQL,Bancos Relacionais,NoSQL]
 icon: fa-database
 ---
-<span style="display:block;text-align:center">![Creditos Img (bitesizebio.com)](https://bitesizebio.com/wp-content/uploads/2012/11/2430528033_73ded5b01e_z.jpg)</span>
 
+## **NoSQL x Bancos Relacionais**
+-
 
-## NoSQL x Bancos Relacionais 
-
-## 1 Introdução
+## **1 Introdução**
 
 Neste capitulo serão apresentados os principais conceitos, definições e temas que são abordados posteriormente na condução da monografia.
 
-## 2 Bancos de dados
+## **2 Bancos de dados**
 
 Bancos de dados são definidos como coleções organizadas de dados (BEYNON-DAVIES, 2004). Apesar de comumente denominarmos como banco de dados todo o sistema gerenciador de bancos de dados ele se refere somente a coleção e aos dados. O sistema que manipula os dados, transações, problemas e outros aspectos é o Sistema de Gerenciamento de Banco de Dados (SGBD) (HADJIGEORGIOU, 2013).
 
@@ -25,7 +24,7 @@ Designs e implementações mais antigas de bancos de dados eram baseadas no uso 
 
 Abaixo são apresentados alguns importantes tipos de Sistemas de gerenciamento de banco de dados.
 
-## 3 Bancos de dados relacionais
+## **3 Bancos de dados relacionais**
 
 Bancos de dados relacionais usam a convenção de bases de dados que contem tabelas, onde cada coluna representa um campo e cada linha representa um registro. Tabelas podem ser relacionadas ou ligadas umas com as outras, com o uso do conceito de chaves estrangerias ou colunas em comum. Em um nível mais abstrato tabelas representam entidades, como usuários, produtos, empresas, entre outras. Esta abstração é muito útil para se desenhar o esquema do banco de dados onde objetos do mundo real precisam ser mapeados para a base de dados (HADJIGEORGIOU, 2013).
 
@@ -43,7 +42,7 @@ A normalização de um banco de dados é dividida em três formas idealizadas po
 -   Segunda Forma Normal (ou 2FN) requer que não haja dependência funcional não trivial de um atributo que não seja a chave, em parte da chave candidata.
 -   Terceira Forma Normal (ou 3FN) requer não haver dependências funcionais não triviais de atributos que não sejam chave, em qualquer coisa exceto um super-conjunto de uma chave candidata.
 
-## 4 Bancos de dados NoSQL
+## **4 Bancos de dados NoSQL**
 
 Apesar de bancos de dados relacionais ainda serem ótimos para alguns tipos de aplicações, por terem se aperfeiçoado por seu prolongado tempo de existência e sua ampla adoção em inúmeros casos, infelizmente para a maioria das arquiteturas de software modernas os bancos relacionais começam a demostrar sinais de envelhecimento, não entregando o desempenho esperado, especialmente quando é necessário lidar com grandes conjuntos de dados (bilhões) e esquemas dinâmicos (KAUR, RANI, 2013). Cada vez mais aceitamos que vivemos em um mundo onde o modelo de domínio das soluções é constantemente alterado, a tal ponto de metodologias de desenvolvimento que aceitam tais mudanças constantes se tornem cada vez mais populares. Tais fatos descritos acima neste capitulo junto com diversos outros levaram a criação, maior interesse e crescente adoção dos bancos de dados não relacionais (KAUR, RANI, 2013).
 
@@ -51,7 +50,7 @@ O Termo NoSQL é um acrônimo para “Not Only SQL” que foi primeiramente intr
 
 O termo NoSQL, talvez não fosse o melhor para definir estes tipos de bancos, pois seu principal diferencial não esta na forma como são feitas as _“querys”_ nos bancos de dados, momento este em que realmente é utilizado o SQL, mas sim na forma como armazenamos as informações, porém o termo se espalhou rapidamente e se tornou um sinônimo destes novos tipos de banco para a comunidade (KAUR, RANI, 2013). O Google foi à primeira empresa a organizar e liderar o movimento a favor de bancos de dados NoSQL com a introdução de seu banco de dados BigTable (CHANG et al., 2006) em 2006 seguido pela Amazon e seu bancos de dados Dynamo (HASTORUN et al., 2007) em 2007.
 
-## 5 Bancos relacionais X Bancos NoSQL
+## **5 Bancos relacionais X Bancos NoSQL**
 
 Há basicamente quatro fatores que distinguem os bancos de dados relacionais tradicionais dos bancos NoSQL são eles: variedade, estrutura, escalabilidade e foco (HOBERMAN, 2014). Abaixo uma comparação entre esses fatores.
 
