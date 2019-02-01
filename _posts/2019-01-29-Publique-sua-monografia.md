@@ -8,7 +8,8 @@ categories: [Life]
 tags: [Life,Tese,Monografia]
 icon: fa-life-ring
 ---
-![Creditos Img (bitesizebio.com)](https://bitesizebio.com/wp-content/uploads/2012/11/2430528033_73ded5b01e_z.jpg)
+<span style="display:block;text-align:center">![Creditos Img (bitesizebio.com)](https://bitesizebio.com/wp-content/uploads/2012/11/2430528033_73ded5b01e_z.jpg)</span>
+
 Já pensou em quantas pessoas leram a sua monografia/Tese? Provavelmente pode-se conta nos dedos certo? Isso pode ter sido culpa sua, mas a boa noticia é que isso pode mudar rapidamente.
 
 Nos últimos dias tenho lido alguns artigos de como aumentar o alcance das minhas postagens no LinkedIn e todas as matérias que li tinham ao menos um ponto em comum: **frequência,** o que para muitas pessoas, que como eu já tem uma vida bem corrida fica no minimo complicado manter uma boa frequência de geração de conteúdo próprio, a sensação é que teria que escrever umas 2 monografias por ano. Foi ai que percebi, "Opa eu já escrevi uma monografia", **o problema é que no máximo umas 5 pessoas leram ela.**
