@@ -11,6 +11,8 @@ icon: fa-database
 
 ## **NoSQL x Bancos Relacionais**
 -
+<span style="display:block;text-align:center">![Uma pesquisa comparativa Capitulo 1. Créditos imagem (mundodevops)](https://media.licdn.com/dms/image/C4D12AQFnwwNIt5o3sg/article-cover_image-shrink_180_320/0?e=1554336000&v=beta&t=3Is6ULCcXWg23gAg6xrLZAsh0LnYzNppKk9wr2b4luQ)</span>
+
 
 ## **1 Introdução**
 
